@@ -27,6 +27,7 @@ def anonymize(source, target):
 
     # Export Anonymized data
     anon_df.to_csv(target)
+    print(f'{source} successfully anonymized to {target}!')
 
 if __name__ == "__main__":
     input_frame = input('What is the input file name (in CSV)? ')
