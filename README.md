@@ -10,3 +10,7 @@ Simple function to create fake data using Faker
 
 3. The next output is your desired output file name (anon_test.csv):
 ![image](https://user-images.githubusercontent.com/97130825/150836520-0d0374dd-524e-4b91-804f-8eef544560cc.png)
+
+4. Success!
+![image](https://user-images.githubusercontent.com/97130825/150837431-84d4df01-8a48-417b-89b4-baa0deb9e48f.png)
+![image](https://user-images.githubusercontent.com/97130825/150837568-af77b69f-2f00-47cd-95ce-447a173b8fcf.png)
